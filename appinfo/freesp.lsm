@@ -1,0 +1,2 @@
+version: 0.4
+description: calculates the free space on a FAT 16 disk very fast
