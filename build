@@ -1,4 +1,4 @@
 #!/bin/bash
 
 find . -name ".DS_Store" -delete
-zip -r freesp.svp appinfo drivers
+zip -r -9 freesp-0.4.svp appinfo drivers
